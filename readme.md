@@ -3,12 +3,12 @@
 This is a simple infection simulation.
 For information on how to use the program, please run simulation.py -h
 
-A (green) - Alive
-A* (blue) - Immune
-D (red) - Dead
-I (yellow) - Infected
+A (green) - Alive<br/>
+A* (blue) - Immune<br/>
+D (red) - Dead<br/>
+I (yellow) - Infected<br/>
 
-![gif 1]()
+![gif 1](https://github.com/ErikBavenstrand/Infection-Simulation/blob/master/Images/demo.gif)
 
 ### Prerequisites
 
